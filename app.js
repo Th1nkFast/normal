@@ -22,6 +22,6 @@ app.get('/', (req, res) => {
 });
 
 
-app.listen(process.ENV.port, () => {
+app.listen(process.env.PORT, () => {
     console.log('Listening on port ' + config.port);
 });
