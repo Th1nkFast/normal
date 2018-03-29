@@ -4,8 +4,8 @@
   "description": "Normalizador de Arquivos",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node app.js"
+},
   "author": "Ian Szmidt",
   "license": "ISC",
   "dependencies": {
